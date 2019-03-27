@@ -1,0 +1,10 @@
+https://learnxinyminutes.com/docs/kotlin/
+
+https://blog.bugsnag.com/introduction-to-kotlin/
+
+https://l-lin.github.io/post/2018-01-28-kotlin-basics_syntax/
+
+https://medium.com/ninjadevs/kotlin-whats-going-on-b508c5083883
+
+https://www.xenonstack.com/blog/overview-kotlin-comparison-kotlin-java/
+
