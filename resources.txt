@@ -8,3 +8,4 @@ https://medium.com/ninjadevs/kotlin-whats-going-on-b508c5083883
 
 https://www.xenonstack.com/blog/overview-kotlin-comparison-kotlin-java/
 
+https://blog.kotlin-academy.com/kotlin-programmer-dictionary-function-type-vs-function-literal-vs-lambda-expression-vs-anonymous-edc97e8873e
